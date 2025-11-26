@@ -145,7 +145,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 #### Jervin Paul C. Romualdo
 
-- Github: [yashiro-nyx](https://github.com/yashiro-nyx)
+- GitHub: [yashiro-nyx](https://github.com/yashiro-nyx)
 
 ## 🙏 Acknowledgements
 
