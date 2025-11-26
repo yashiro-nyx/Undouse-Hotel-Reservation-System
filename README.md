@@ -142,6 +142,7 @@ Undouse-Hotel-Reservation-System/
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👥 Authors
+### Jervin Paul C. Romualdo
 
 - **Yashiro** - *Initial work* - [yashiro-nyx](https://github.com/yashiro-nyx)
 
