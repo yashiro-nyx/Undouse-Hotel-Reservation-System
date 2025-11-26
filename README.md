@@ -1,6 +1,6 @@
 # Undouse Hotel Reservation System
 
-<img src="Undouse Hotel Reservation System/images/logo.jpg" alt="Undouse Hotel Logo" width="500" height="500">
+<img src="Undouse Hotel Reservation System/images/logo.jpg" alt="Undouse Hotel Logo" width="350" height="500">
 
 A comprehensive hotel reservation and management system built with Java.
 
